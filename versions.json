@@ -1,5 +1,6 @@
 {
   "1.12.5.1": ["https://github.com/lovtsovk/OKHelper_release/releases/download/1.12.5.1/OKHelper_1.12.5.1.zip","https://github.com/lovtsovk/OKHelper_release/releases/tag/1.12.5.1"],
   "1.12.5.2": ["https://github.com/lovtsovk/OKHelper_release/releases/download/1.12.5.2/OKHelper_1.12.5.2.zip","https://github.com/lovtsovk/OKHelper_release/releases/tag/1.12.5.2"],
-  "1.13": ["https://github.com/lovtsovk/OKHelper_release/releases/download/1.13/OKHelper_1.13.zip","https://github.com/lovtsovk/OKHelper_release/releases/tag/1.13"]
+  "1.13": ["https://github.com/lovtsovk/OKHelper_release/releases/download/1.13/OKHelper_1.13.zip","https://github.com/lovtsovk/OKHelper_release/releases/tag/1.13"],
+  "1.13.1": ["https://github.com/lovtsovk/OKHelper_release/releases/download/1.13.1/OKHelper_1.13.1.zip","https://github.com/lovtsovk/OKHelper_release/releases/tag/1.13.1"]
 }
